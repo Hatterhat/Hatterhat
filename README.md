@@ -1,4 +1,6 @@
-### yo whats good
+### Howdy!
+
+I'm Hatterhat. At least, that's my username. You might have been directed here for other reasons.
 <!--
 **Hatterhat/Hatterhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
